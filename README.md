@@ -1,10 +1,35 @@
-# My name is Lev 🦁
-## I am 17 years old and have been programming for over 1 year.
+```python
+class Person:
+    _inctance = None
+
+    def __new__(cls):
+        if cls._inctance is None:
+            cls._instance = super().__new__(cls)
+        return cls._instance
+
+    def __init__(self):
+        self.name = "Lev"
+        self.age = 17
+        self.role = "Web developer"
+        self.language = 'Python'
+        self.language_spoken = ["ru_RU", "en_US"]
+
+    def say_hi(self):
+        return f'''
+                Hi, my name is {self.name} — I am a {self.role} in {self.language}.
+                I am {self.age} years old and have been programming for over 1 year.
+                Thank you for stopping by!
+                '''
+
+
+me = Person()
+print(me.say_hi())
+```
 ### 👨‍💻About me:
-- 💻 Python web developer <!-- <img src="https://simpleicons.org/icons/python.svg" alt="GitHub" style="width: 20px; color: #3776AB;"> -->
 - ⚡ I like to write code
 - 🔧 Creating my own projects
 - 👍 Happy to have any real practice
+- 👨‍💻 Responsible and quite pedantic
 - 😎 I am self-taught
 
 ### 💻 Languages and tools:
@@ -57,3 +82,5 @@
     </td>
   </tr>
 </table>
+
+[![sodinich github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sodinich&theme=high-contrast)](https://github.com/sodinich/github-readme-activity-graph)
