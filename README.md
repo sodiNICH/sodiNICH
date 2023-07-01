@@ -31,7 +31,7 @@ print(me.greetings)
 - ⚡ I like to write code
 - 🔧 Creating my own projects
 - 👍 Happy to have any real practice
-- 👨‍💻 Responsible and quite pedantic
+- 🧐 Responsible, limited and very pedantic
 - 😎 I am self-taught
 
 ### 💻 Languages and tools:
