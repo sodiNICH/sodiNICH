@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/gmail-d1d1d1?style=for-the-badge&logo=gmail&logoColor=EA4335" title="Gmail"/>
   </a>
   <a href="https://discord.com/users/712922114600075295">
-    <img src="https://img.shields.io/badge/Discord: SODINICH-5865F2?style=for-the-badge&logo=discord&logoColor=white" title="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" title="Discord"/>
   </a>
 </div>
 
