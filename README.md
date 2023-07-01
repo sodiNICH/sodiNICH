@@ -29,20 +29,20 @@
 
 ### 📩 My contacts:
 <div id="contacts">
-  <a href="https://t.me/ya_gay_ksta">
+  <a href="https://t.me/ya_gay_ksta" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram"/>
   </a>
-  <a href="mailto:liwanonika@gmail.com">
+  <a href="mailto:liwanonika@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-d1d1d1?style=for-the-badge&logo=gmail&logoColor=EA4335" title="Gmail"/>
   </a>
-  <a href="https://discord.com/users/712922114600075295">
+  <a href="https://discord.com/users/712922114600075295" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" title="Discord"/>
   </a>
 </div>
 
 ### 🗂️ Highlight Projects
 
-<a href="https://github.com/sodiNICH/Shop">
+<a href="https://github.com/sodiNICH/Shop" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sodiNICH&repo=Shop&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
 
