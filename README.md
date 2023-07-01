@@ -20,6 +20,12 @@
   <img src="https://img.shields.io/badge/Github-d1d1d1?style=for-the-badge&logo=github&logoColor=black" title="Github"/>
 </div>
 
+### ✍️ IDE:
+<div id="technologies">
+  <img src="https://img.shields.io/badge/vs code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" title="Visual Studio code"/> 
+  <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" title="Pycharm"/>
+</div>
+
 ### 📩 My contacts:
 <div id="contacts">
   <a href="https://t.me/ya_gay_ksta">
