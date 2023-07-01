@@ -23,12 +23,12 @@
 ### 📩 My contacts:
 <div id="contacts">
   <a href="https://t.me/ya_gay_ksta">
-    <img src="https://img.shields.io/badge/Telegram-363b3c?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>
+    <img src="https://img.shields.io/badge/Telegram-363b3c?style=for-the-badge&logo=telegram&logoColor=26A5E4" title="Telegram"/>
   </a>
   <a href="mailto:liwanonika@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-363b3c?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+    <img src="https://img.shields.io/badge/gmail-363b3c?style=for-the-badge&logo=gmail&logoColor=EA4335" title="Gmail"/>
   </a>
-  <img src="https://img.shields.io/badge/Discord: SODINICH-363b3c?style=for-the-badge&logo=discord&logoColor=5865F2"/>
+  <img src="https://img.shields.io/badge/Discord: SODINICH-363b3c?style=for-the-badge&logo=discord&logoColor=5865F2" title="Discord"/>
 </div>
 
 ### ⚙️ GitHub statistics:
