@@ -1,6 +1,6 @@
 # My name is Lev 🦁
 ### 👨‍💻About me:
-- 💻 Beginning Python web developer <!-- <img src="https://simpleicons.org/icons/python.svg" alt="GitHub" style="width: 20px; color: #3776AB;"> -->
+- 💻 Python web developer <!-- <img src="https://simpleicons.org/icons/python.svg" alt="GitHub" style="width: 20px; color: #3776AB;"> -->
 - ⚡ I like to write code
 - 🔧 Creating my own projects
 - 👍 Happy to have any real practice
