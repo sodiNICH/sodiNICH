@@ -1,4 +1,5 @@
 # My name is Lev 🦁
+## I am 17 years old and have been programming for over 1 year.
 ### 👨‍💻About me:
 - 💻 Python web developer <!-- <img src="https://simpleicons.org/icons/python.svg" alt="GitHub" style="width: 20px; color: #3776AB;"> -->
 - ⚡ I like to write code
