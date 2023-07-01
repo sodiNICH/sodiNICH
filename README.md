@@ -16,8 +16,8 @@ class Person:
 
     def say_hi(self):
         return f'''
-                Hi, my name is {self.name} — I am a {self.role} in {self.language}.
-                I am {self.age} years old and have been programming for over 1 year.
+                Hi, my name is {self.name} — I'm a {self.role} in {self.language}.
+                I'm {self.age} years old and have been programming for over 1 year.
                 Thank you for stopping by!
                 '''
 
