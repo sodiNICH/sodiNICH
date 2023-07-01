@@ -1,10 +1,10 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> For starters...
 ```python
 class Person:
-    _inctance = None
+    _instance = None
 
     def __new__(cls):
-        if cls._inctance is None:
+        if cls._instance is None:
             cls._instance = super().__new__(cls)
         return cls._instance
 
