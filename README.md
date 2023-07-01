@@ -14,7 +14,8 @@ class Person:
         self.language = 'Python'
         self.language_spoken = ["ru_RU", "en_US"]
 
-    def say_hi(self):
+    @property
+    def greetings(self):
         return f'''
                 Hi, my name is {self.name} — I'm a {self.role} in {self.language}.
                 I'm {self.age} years old and have been programming for over 1 year.
@@ -23,7 +24,7 @@ class Person:
 
 
 me = Person()
-print(me.say_hi())
+print(me.greetings)
 ```
 ### 👨‍💻About me:
 - ⚡ I like to write code
@@ -83,4 +84,4 @@ print(me.say_hi())
   </tr>
 </table>
 
-[![sodinich github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sodinich&theme=high-contrast)](https://github.com/sodinich/github-readme-activity-graph)
+<!-- [![sodinich github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sodinich&theme=high-contrast)](https://github.com/sodinich/github-readme-activity-graph) -->
