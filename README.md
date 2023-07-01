@@ -1,3 +1,10 @@
+### My name is Lev 🦁
+
+- Beginning Python web developer <!-- <img src="https://simpleicons.org/icons/python.svg" alt="GitHub" style="width: 20px; color: #3776AB;"> -->
+- i like to write code
+- Creating my own projects
+- Happy to have any real practice
+
 ### Languages and tools
 <img src="https://img.shields.io/badge/Python-363b3c?style=for-the-badge&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Django-363b3c?style=for-the-badge&logo=django&logoColor=008000"/><br>
 <img src="https://img.shields.io/badge/HTML-363b3c?style=for-the-badge&logo=HTML5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS-363b3c?style=for-the-badge&logo=CSS3&logoColor=9932CC"/> <img src="https://img.shields.io/badge/JavaScript-363b3c?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/jquery-363b3c?style=for-the-badge&logo=jquery&logoColor=0769AD"/><br>
