@@ -8,16 +8,16 @@
 
 ### 💻 Languages and tools:
 <div id="technologies">
-  <img src="https://img.shields.io/badge/Python-363b3c?style=for-the-badge&logo=python&logoColor=3776AB"/> 
-  <img src="https://img.shields.io/badge/Django-363b3c?style=for-the-badge&logo=django&logoColor=008000"/><br>
-  <img src="https://img.shields.io/badge/HTML-363b3c?style=for-the-badge&logo=HTML5&logoColor=E34F26"/> 
-  <img src="https://img.shields.io/badge/CSS-363b3c?style=for-the-badge&logo=CSS3&logoColor=9932CC"/>  
-  <img src="https://img.shields.io/badge/JavaScript-363b3c?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/> 
-  <img src="https://img.shields.io/badge/jquery-363b3c?style=for-the-badge&logo=jquery&logoColor=0769AD"/><br>
-  <img src="https://img.shields.io/badge/postgresql-363b3c?style=for-the-badge&logo=postgresql&logoColor=4169E1"/> 
-  <img src="https://img.shields.io/badge/redis-363b3c?style=for-the-badge&logo=redis&logoColor=DC382D"/><br>
-  <img src="https://img.shields.io/badge/Git-363b3c?style=for-the-badge&logo=git&logoColor=F05032"/> 
-  <img src="https://img.shields.io/badge/Github-363b3c?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-363b3c?style=for-the-badge&logo=python&logoColor=3776AB" title="Python"/> 
+  <img src="https://img.shields.io/badge/Django-363b3c?style=for-the-badge&logo=django&logoColor=008000" title="Django"/><br>
+  <img src="https://img.shields.io/badge/HTML-363b3c?style=for-the-badge&logo=HTML5&logoColor=E34F26" title="HTML"/> 
+  <img src="https://img.shields.io/badge/CSS-363b3c?style=for-the-badge&logo=CSS3&logoColor=9932CC" title="CSS"/>  
+  <img src="https://img.shields.io/badge/JavaScript-363b3c?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" title="JS"/> 
+  <img src="https://img.shields.io/badge/jquery-363b3c?style=for-the-badge&logo=jquery&logoColor=0769AD" title="Jquery"/><br>
+  <img src="https://img.shields.io/badge/postgresql-363b3c?style=for-the-badge&logo=postgresql&logoColor=4169E1" title="PostreSQL"/> 
+  <img src="https://img.shields.io/badge/redis-363b3c?style=for-the-badge&logo=redis&logoColor=DC382D" title="Redis"/><br>
+  <img src="https://img.shields.io/badge/Git-363b3c?style=for-the-badge&logo=git&logoColor=F05032" title="Git"/> 
+  <img src="https://img.shields.io/badge/Github-363b3c?style=for-the-badge&logo=github&logoColor=black" title="Github"/>
 </div>
 
 ### 📩 My contacts:
