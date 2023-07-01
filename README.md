@@ -1,4 +1,4 @@
-### My name is Lev 🦁
+# My name is Lev 🦁
 
 - Beginning Python web developer <!-- <img src="https://simpleicons.org/icons/python.svg" alt="GitHub" style="width: 20px; color: #3776AB;"> -->
 - i like to write code
