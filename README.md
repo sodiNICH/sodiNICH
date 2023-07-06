@@ -3,28 +3,28 @@
 class Person:
     _instance = None
 
-    def __new__(cls):
+    def __new__(cls, *args, **kwargs):
         if cls._instance is None:
             cls._instance = super().__new__(cls)
         return cls._instance
 
-    def __init__(self):
-        self.name = "Lev"
-        self.age = 17
-        self.role = "Web developer"
-        self.language = 'Python'
-        self.language_spoken = ["ru_RU", "en_US"]
+    def __init__(self, name: str, age: int, role: str, language: str, language_spoken=("ru_RU", "en_US")):
+        self.name = name
+        self.age = age
+        self.role = role
+        self.language = language
+        self.language_spoken = language_spoken
 
     @property
     def greetings(self):
-        return f'''
-                Hi, my name is {self.name} — I'm a {self.role} in {self.language}.
-                I'm {self.age} years old and have been programming for over 1 year.
-                Thank you for stopping by!
-                '''
+        short_bio = f'''
+                    Hi, my name is {self.name} — I'm a {self.role} in {self.language}.
+                    I'm {self.age} years old and have been programming for over 1 year.
+                    Thank you for stopping by!
+                    '''
+        return short_bio
 
-
-me = Person()
+me = Person(name='Lev', age=17, role='Web developer', language='Python')
 print(me.greetings)
 ```
 ### 👨‍💻About me:
