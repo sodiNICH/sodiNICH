@@ -1,7 +1,7 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> For starters...
 ```python
 class Person:
-    _instance = None
+    __instance = None
 
     def __new__(cls, *args, **kwargs):
         if cls._instance is None:
