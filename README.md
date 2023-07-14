@@ -4,9 +4,9 @@ class Person:
     __instance = None
 
     def __new__(cls, *args, **kwargs):
-        if cls._instance is None:
-            cls._instance = super().__new__(cls)
-        return cls._instance
+        if cls.__instance is None:
+            cls.__instance = super().__new__(cls)
+        return cls.__instance
 
     def __init__(self, name: str, age: int, role: str, language: str, language_spoken=("ru_RU", "en_US")):
         self.name = name
