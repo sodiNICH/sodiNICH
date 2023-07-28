@@ -1,5 +1,7 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> For starters...
 ```python
+from textwrap import dedent
+
 class Person:
     __instance = None
 
@@ -17,11 +19,11 @@ class Person:
 
     @property
     def greetings(self):
-        short_bio = f'''
+        short_bio = dedent(f'''
                     Hi, my name is {self.name} — I'm a {self.role} in {self.language}.
                     I'm {self.age} years old and have been programming for over 1 year.
                     Thank you for stopping by!
-                    '''
+                    ''')
         return short_bio
 
 me = Person(name='Lev', age=17, role='Web developer', language='Python')
