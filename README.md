@@ -60,7 +60,7 @@ print(me.greetings)
 
 ### 📩 My contacts:
 <div id="contacts">
-  <a href="https://t.me/ya_gay_ksta">
+  <a href="https://t.me/ya_kilka_ksta">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram"/>
   </a>
   <a href="mailto:liwanonika@gmail.com">
