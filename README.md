@@ -38,18 +38,25 @@ print(me.greetings)
 
 ### 💻 Languages and tools:
 <div id="technologies">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/> 
-  <img src="https://img.shields.io/badge/Django-008000?style=for-the-badge&logo=django&logoColor=white" title="Django"/><br>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML"/> 
-  <img src="https://img.shields.io/badge/CSS-2d6bdc?style=for-the-badge&logo=CSS3&logoColor=white" title="CSS"/>  
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" title="JS"/> 
-  <img src="https://img.shields.io/badge/jquery-2f8ccc?style=for-the-badge&logo=jquery&logoColor=white" title="Jquery"/><br>
-  <img src="https://img.shields.io/badge/postgresql-3f6bf0?style=for-the-badge&logo=postgresql&logoColor=white" title="PostreSQL"/> 
-  <img src="https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis&logoColor=f93325" title="Redis"/><br>
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032" title="Git"/> 
-  <img src="https://img.shields.io/badge/Github-d1d1d1?style=for-the-badge&logo=github&logoColor=black" title="Github"/>
-  <img src="https://img.shields.io/badge/linux-d1d1d1?style=for-the-badge&logo=linux&logoColor=black" title="Linux">
-  <!-- <img src="https://img.shields.io/badge/windows terminal-black?style=for-the-badge&logo=windowsterminal&logoColor=white" title="Windows"> -->
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/> 
+    <img src="https://img.shields.io/badge/Django-008000?style=for-the-badge&logo=django&logoColor=white" title="Django"/>
+    <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" title="FastAPI"/>
+    <img src="https://img.shields.io/badge/celery-37814A?style=for-the-badge&logo=celery&logoColor=d1d1d1" title="Celery"><br>
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML"/> 
+    <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" title="JS"/> 
+    <img src="https://img.shields.io/badge/jquery-2f8ccc?style=for-the-badge&logo=jquery&logoColor=white" title="Jquery"/><br>
+    <img src="https://img.shields.io/badge/CSS-2d6bdc?style=for-the-badge&logo=CSS3&logoColor=white" title="CSS"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" title="Bootstrap"/><br>
+    <img src="https://img.shields.io/badge/postgresql-3f6bf0?style=for-the-badge&logo=postgresql&logoColor=white" title="PostreSQL"/> 
+    <img src="https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis&logoColor=f93325" title="Redis"/><br>
+    <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032" title="Git"/>
+    <img src="https://img.shields.io/badge/Github-d1d1d1?style=for-the-badge&logo=github&logoColor=black" title="Github"/><br>
+    <img src="https://img.shields.io/badge/linux-d1d1d1?style=for-the-badge&logo=linux&logoColor=black" title="Linux">
+    <img src="https://img.shields.io/badge/windows terminal-black?style=for-the-badge&logo=windowsterminal&logoColor=white" title="Windows"><br>
+    <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" title="NGinx"/>
+    <img src="https://img.shields.io/badge/gunicorn-d1d1d1?style=for-the-badge&logo=gunicorn&logoColor=499848" title="Gunicorn"><br>
+    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=d1d1d1" title="Docker">
+    <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=d1d1d1" title="Kubernetes">
 </div>
 
 ### ✍️ IDE:
@@ -73,8 +80,8 @@ print(me.greetings)
 
 ### 🗂️ Highlight Projects
 
-<a href="https://github.com/sodiNICH/Shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sodiNICH&repo=Shop&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+<a href="https://github.com/sodiNICH/Bulletin_boards">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sodiNICH&repo=Bulletin_boards&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
 
 ### ⚙️ GitHub statistics:
