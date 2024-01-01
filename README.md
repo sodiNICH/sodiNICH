@@ -18,14 +18,14 @@ class Person:
         return cls.__instance
 
     def __str__(self) -> str:
-        short_bio = dedent(
+        brief_description = dedent(
             f"""
             Hi, my name is {self.name} — I'm a {self.role} in {self.language}.
             I'm {self.age} years old and have been programming for over 1 year.
             Thank you for stopping by!
             """
         )
-        return short_bio
+        return brief_description
 
 def main() -> None:
     me = Person(name="Lev", age=17, role="Web developer", language="Python")
