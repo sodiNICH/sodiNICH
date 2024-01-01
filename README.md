@@ -45,8 +45,8 @@ if __name__ == "__main__":
 - 🧐 Responsible, limited and very pedantic
 - 😎 I am self-taught
 
-### 💻 Languages and tools
-- #### Backend technology:
+### 💻 Languages and tools:
+- #### Backend technology
 <div id="backend-technologies">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/> 
     <img src="https://img.shields.io/badge/Django-008000?style=for-the-badge&logo=django&logoColor=white" title="Django"/>
@@ -54,7 +54,7 @@ if __name__ == "__main__":
     <img src="https://img.shields.io/badge/celery-37814A?style=for-the-badge&logo=celery&logoColor=d1d1d1" title="Celery"><br>
 </div>
 
-- #### Frontend technology:
+- #### Frontend technology
 <div id="frontend-technologies">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML"/> 
     <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" title="JS"/> 
@@ -63,13 +63,13 @@ if __name__ == "__main__":
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" title="Bootstrap"/><br>
 </div>
 
-- #### Data bases:
+- #### Data bases
 <div id="data-bases">
     <img src="https://img.shields.io/badge/postgresql-3f6bf0?style=for-the-badge&logo=postgresql&logoColor=white" title="PostreSQL"/> 
     <img src="https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis&logoColor=f93325" title="Redis"/><br>
 </div>
 
-- #### DevOps technologies:
+- #### DevOps technologies
 <div id="devops-technologies">
     <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" title="NGinx"/>
     <img src="https://img.shields.io/badge/gunicorn-d1d1d1?style=for-the-badge&logo=gunicorn&logoColor=499848" title="Gunicorn"><br>
@@ -77,7 +77,7 @@ if __name__ == "__main__":
     <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=d1d1d1" title="Kubernetes">
 </div>
 
-- #### Other:
+- #### Other
 <div id="other">
     <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032" title="Git"/>
     <img src="https://img.shields.io/badge/Github-d1d1d1?style=for-the-badge&logo=github&logoColor=black" title="Github"/><br>
