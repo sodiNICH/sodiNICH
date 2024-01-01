@@ -38,12 +38,15 @@ if __name__ == "__main__":
     # I'm 17 years old and have been programming for over 1 year.
     # Thank you for stopping by!
 ```
+---
 ### 👨‍💻About me:
 - ⚡ I like to write code
 - 🔧 Creating my own projects
 - 👍 Happy to have any real practice
 - 🧐 Responsible, limited and very pedantic
 - 😎 I am self-taught
+
+---
 
 ### 💻 Languages and tools:
 - #### Backend technologies
@@ -85,11 +88,15 @@ if __name__ == "__main__":
     <img src="https://img.shields.io/badge/windows terminal-black?style=for-the-badge&logo=windowsterminal&logoColor=white" title="Windows"><br>
 </div>
 
+---
+
 ### ✍️ IDE:
 <div id="ide">
   <img src="https://img.shields.io/badge/vs code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" title="Visual Studio code"/> 
   <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" title="Pycharm"/>
 </div>
+
+---
 
 ### 📩 My contacts:
 <div id="contacts">
@@ -104,11 +111,14 @@ if __name__ == "__main__":
   </a>
 </div>
 
-### 🗂️ Highlight Projects
+---
 
+### 🗂️ Highlight Projects
 <a href="https://github.com/sodiNICH/Bulletin_boards">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sodiNICH&repo=Bulletin_boards&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
+
+---
 
 ### ⚙️ GitHub statistics:
 <table>
