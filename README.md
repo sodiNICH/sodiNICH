@@ -1,33 +1,42 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> For starters...
 ```python
 from textwrap import dedent
+from dataclasses import dataclass
 
+@dataclass
 class Person:
     __instance = None
+
+    name: str
+    age: int
+    role: str
+    language: str
 
     def __new__(cls, *args, **kwargs):
         if cls.__instance is None:
             cls.__instance = super().__new__(cls)
         return cls.__instance
 
-    def __init__(self, name: str, age: int, role: str, language: str, language_spoken=("ru_RU", "en_US")):
-        self.name = name
-        self.age = age
-        self.role = role
-        self.language = language
-        self.language_spoken = language_spoken
-
-    @property
-    def greetings(self):
-        short_bio = dedent(f'''
-                    Hi, my name is {self.name} — I'm a {self.role} in {self.language}.
-                    I'm {self.age} years old and have been programming for over 1 year.
-                    Thank you for stopping by!
-                    ''')
+    def __str__(self) -> str:
+        short_bio = dedent(
+            f"""
+            Hi, my name is {self.name} — I'm a {self.role} in {self.language}.
+            I'm {self.age} years old and have been programming for over 1 year.
+            Thank you for stopping by!
+            """
+        )
         return short_bio
 
-me = Person(name='Lev', age=17, role='Web developer', language='Python')
-print(me.greetings)
+def main() -> None:
+    me = Person(name="Lev", age=17, role="Web developer", language="Python")
+    print(me)
+
+
+if __name__ == "__main__":
+    main()
+    # Hi, my name is Lev — I'm a Web developer in Python.
+    # I'm 17 years old and have been programming for over 1 year.
+    # Thank you for stopping by!
 ```
 ### 👨‍💻About me:
 - ⚡ I like to write code
@@ -36,31 +45,48 @@ print(me.greetings)
 - 🧐 Responsible, limited and very pedantic
 - 😎 I am self-taught
 
-### 💻 Languages and tools:
-<div id="technologies">
+### 💻 Languages and tools
+- #### Backend technology:
+<div id="backend-technologies">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/> 
     <img src="https://img.shields.io/badge/Django-008000?style=for-the-badge&logo=django&logoColor=white" title="Django"/>
     <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" title="FastAPI"/>
     <img src="https://img.shields.io/badge/celery-37814A?style=for-the-badge&logo=celery&logoColor=d1d1d1" title="Celery"><br>
+</div>
+
+- #### Frontend technology:
+<div id="frontend-technologies">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML"/> 
     <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" title="JS"/> 
     <img src="https://img.shields.io/badge/jquery-2f8ccc?style=for-the-badge&logo=jquery&logoColor=white" title="Jquery"/><br>
     <img src="https://img.shields.io/badge/CSS-2d6bdc?style=for-the-badge&logo=CSS3&logoColor=white" title="CSS"/>
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" title="Bootstrap"/><br>
+</div>
+
+- #### Data bases:
+<div id="data-bases">
     <img src="https://img.shields.io/badge/postgresql-3f6bf0?style=for-the-badge&logo=postgresql&logoColor=white" title="PostreSQL"/> 
     <img src="https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis&logoColor=f93325" title="Redis"/><br>
-    <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032" title="Git"/>
-    <img src="https://img.shields.io/badge/Github-d1d1d1?style=for-the-badge&logo=github&logoColor=black" title="Github"/><br>
-    <img src="https://img.shields.io/badge/linux-d1d1d1?style=for-the-badge&logo=linux&logoColor=black" title="Linux">
-    <img src="https://img.shields.io/badge/windows terminal-black?style=for-the-badge&logo=windowsterminal&logoColor=white" title="Windows"><br>
+</div>
+
+- #### DevOps technologies:
+<div id="devops-technologies">
     <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" title="NGinx"/>
     <img src="https://img.shields.io/badge/gunicorn-d1d1d1?style=for-the-badge&logo=gunicorn&logoColor=499848" title="Gunicorn"><br>
     <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=d1d1d1" title="Docker">
     <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=d1d1d1" title="Kubernetes">
 </div>
 
+- #### Other:
+<div id="other">
+    <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032" title="Git"/>
+    <img src="https://img.shields.io/badge/Github-d1d1d1?style=for-the-badge&logo=github&logoColor=black" title="Github"/><br>
+    <img src="https://img.shields.io/badge/linux-d1d1d1?style=for-the-badge&logo=linux&logoColor=black" title="Linux">
+    <img src="https://img.shields.io/badge/windows terminal-black?style=for-the-badge&logo=windowsterminal&logoColor=white" title="Windows"><br>
+</div>
+
 ### ✍️ IDE:
-<div id="technologies">
+<div id="ide">
   <img src="https://img.shields.io/badge/vs code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" title="Visual Studio code"/> 
   <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" title="Pycharm"/>
 </div>
