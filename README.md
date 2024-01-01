@@ -54,7 +54,9 @@ if __name__ == "__main__":
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/> 
     <img src="https://img.shields.io/badge/Django-008000?style=for-the-badge&logo=django&logoColor=white" title="Django"/>
     <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" title="FastAPI"/>
-    <img src="https://img.shields.io/badge/celery-37814A?style=for-the-badge&logo=celery&logoColor=d1d1d1" title="Celery"><br>
+    <img src="https://img.shields.io/badge/JSON Web tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=d1d1d1" title="JSON Web tokens"><br>
+    <img src="https://img.shields.io/badge/celery-37814A?style=for-the-badge&logo=celery&logoColor=d1d1d1" title="Celery">
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" title="RabbitMQ">
 </div>
 
 - #### Frontend technologies
@@ -86,6 +88,8 @@ if __name__ == "__main__":
     <img src="https://img.shields.io/badge/Github-d1d1d1?style=for-the-badge&logo=github&logoColor=black" title="Github"/><br>
     <img src="https://img.shields.io/badge/linux-d1d1d1?style=for-the-badge&logo=linux&logoColor=black" title="Linux">
     <img src="https://img.shields.io/badge/windows terminal-black?style=for-the-badge&logo=windowsterminal&logoColor=white" title="Windows"><br>
+    <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" title="MinIO">
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" title="JSON Web tokens"><br>
 </div>
 
 ---
