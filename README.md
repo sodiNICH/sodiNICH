@@ -46,7 +46,7 @@ if __name__ == "__main__":
 - 😎 I am self-taught
 
 ### 💻 Languages and tools:
-- #### Backend technology
+- #### Backend technologies
 <div id="backend-technologies">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/> 
     <img src="https://img.shields.io/badge/Django-008000?style=for-the-badge&logo=django&logoColor=white" title="Django"/>
@@ -54,7 +54,7 @@ if __name__ == "__main__":
     <img src="https://img.shields.io/badge/celery-37814A?style=for-the-badge&logo=celery&logoColor=d1d1d1" title="Celery"><br>
 </div>
 
-- #### Frontend technology
+- #### Frontend technologies
 <div id="frontend-technologies">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML"/> 
     <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" title="JS"/> 
