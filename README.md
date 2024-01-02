@@ -48,33 +48,54 @@ if __name__ == "__main__":
 
 ---
 
-### 💻 Languages and tools:
-- #### Backend technologies
-<div id="backend-technologies">
+### 💻 Technology Stack:
+- #### Language and web frameworks
+<div id="language-and-web-frameworks">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/> 
     <img src="https://img.shields.io/badge/Django-008000?style=for-the-badge&logo=django&logoColor=white" title="Django"/>
     <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" title="FastAPI"/>
+</div>
+
+- #### Data bases
+<div id="data-bases">
+    <img src="https://img.shields.io/badge/postgresql-3f6bf0?style=for-the-badge&logo=postgresql&logoColor=white" title="PostreSQL"/>
+    <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=d1d1d1" title="MongoDB">
+    <img src="https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis&logoColor=f93325" title="Redis"/><br>
+</div>
+
+<!-- - #### File storage
+<div id="file-storage">
+    <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" title="MinIO">
+</div> -->
+
+<!-- - #### Basic authorization method
+<div id="auth">
     <img src="https://img.shields.io/badge/JSON Web tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=d1d1d1" title="JSON Web tokens"><br>
+</div> -->
+
+- #### Message queue
+<div id="message-queue">
     <img src="https://img.shields.io/badge/celery-37814A?style=for-the-badge&logo=celery&logoColor=d1d1d1" title="Celery">
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" title="RabbitMQ">
 </div>
 
-- #### Frontend technologies
+- #### ELK stack
+<div id="elk">
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" title="Elasticsearch">
+    <img src="https://img.shields.io/badge/logstash-005571?style=for-the-badge&logo=logstash&logoColor=white" title="Logstash">
+    <img src="https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" title="Kibana">
+    <img src="https://img.shields.io/badge/beats-005571?style=for-the-badge&logo=beats&logoColor=white" title="Beats"><br>
+</div>
+
+<!-- - #### Frontend technologies
 <div id="frontend-technologies">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML"/> 
     <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" title="JS"/> 
     <img src="https://img.shields.io/badge/jquery-2f8ccc?style=for-the-badge&logo=jquery&logoColor=white" title="Jquery"/><br>
     <img src="https://img.shields.io/badge/CSS-2d6bdc?style=for-the-badge&logo=CSS3&logoColor=white" title="CSS"/>
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" title="Bootstrap"/><br>
-</div>
-
-- #### Data bases
-<div id="data-bases">
-    <img src="https://img.shields.io/badge/postgresql-3f6bf0?style=for-the-badge&logo=postgresql&logoColor=white" title="PostreSQL"/> 
-    <img src="https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis&logoColor=f93325" title="Redis"/><br>
-</div>
-
-- #### DevOps technologies
+</div> -->
+- #### Deployment technologies
 <div id="devops-technologies">
     <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" title="NGinx"/>
     <img src="https://img.shields.io/badge/gunicorn-d1d1d1?style=for-the-badge&logo=gunicorn&logoColor=499848" title="Gunicorn"><br>
@@ -82,14 +103,20 @@ if __name__ == "__main__":
     <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=d1d1d1" title="Kubernetes">
 </div>
 
-- #### Other
-<div id="other">
+- #### Git
+<div id="git">
     <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032" title="Git"/>
-    <img src="https://img.shields.io/badge/Github-d1d1d1?style=for-the-badge&logo=github&logoColor=black" title="Github"/><br>
+    <img src="https://img.shields.io/badge/Github-d1d1d1?style=for-the-badge&logo=github&logoColor=black" title="Github"/>
+    <img src="https://img.shields.io/badge/Gitlab-d1d1d1?style=for-the-badge&logo=gitlab&logoColor=FC6D26" title="Gitlab"/>
+</div>
+
+- #### OS and terminal
+<div id="os-and-terminal">
+    <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" title="Windows">
     <img src="https://img.shields.io/badge/linux-d1d1d1?style=for-the-badge&logo=linux&logoColor=black" title="Linux">
-    <img src="https://img.shields.io/badge/windows terminal-black?style=for-the-badge&logo=windowsterminal&logoColor=white" title="Windows"><br>
-    <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" title="MinIO">
-    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" title="JSON Web tokens"><br>
+    <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" title="Ubuntu"><br>
+    <img src="https://img.shields.io/badge/windows terminal-black?style=for-the-badge&logo=windowsterminal&logoColor=white" title="Windows terminal">
+    <img src="https://img.shields.io/badge/gnome terminal-241F31?style=for-the-badge&logo=gnometerminal&logoColor=white" title="Windows terminal">
 </div>
 
 ---
