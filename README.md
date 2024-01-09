@@ -72,6 +72,11 @@ if __name__ == "__main__":
 <div id="auth">
     <img src="https://img.shields.io/badge/JSON Web tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=d1d1d1" title="JSON Web tokens"><br>
 </div> -->
+- #### Files storage
+<div id="files-storage">
+    <img src="https://img.shields.io/badge/minio-C72E49?style=for-the-badge&logo=minio&logoColor=d1d1d1" title="MinIO">
+    <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" title="Amazon S3">
+</div>
 
 - #### Message queue
 <div id="message-queue">
