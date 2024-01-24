@@ -92,14 +92,15 @@ if __name__ == "__main__":
     <img src="https://img.shields.io/badge/beats-005571?style=for-the-badge&logo=beats&logoColor=white" title="Beats"><br>
 </div>
 
-<!-- - #### Frontend technologies
+- #### Front-end technologies (basic)
 <div id="frontend-technologies">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML"/> 
     <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" title="JS"/> 
     <img src="https://img.shields.io/badge/jquery-2f8ccc?style=for-the-badge&logo=jquery&logoColor=white" title="Jquery"/><br>
     <img src="https://img.shields.io/badge/CSS-2d6bdc?style=for-the-badge&logo=CSS3&logoColor=white" title="CSS"/>
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" title="Bootstrap"/><br>
-</div> -->
+</div>
+
 - #### Deployment technologies
 <div id="devops-technologies">
     <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" title="NGinx"/>
