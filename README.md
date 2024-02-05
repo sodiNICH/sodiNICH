@@ -98,13 +98,11 @@ if __name__ == "__main__":
     <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" title="Grafana">
 </div>
 
-- #### Front-end technologies (basic)
-<div id="frontend-technologies">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML"/> 
-    <img src="https://img.shields.io/badge/CSS-2d6bdc?style=for-the-badge&logo=CSS3&logoColor=white" title="CSS"/>
-    <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" title="JS"/><br>
-    <img src="https://img.shields.io/badge/jquery-2f8ccc?style=for-the-badge&logo=jquery&logoColor=white" title="Jquery"/>
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" title="Bootstrap"/>
+- #### Git
+<div id="git">
+    <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032" title="Git"/>
+    <img src="https://img.shields.io/badge/Github-d1d1d1?style=for-the-badge&logo=github&logoColor=black" title="Github"/>
+    <img src="https://img.shields.io/badge/Gitlab-d1d1d1?style=for-the-badge&logo=gitlab&logoColor=FC6D26" title="Gitlab"/>
 </div>
 
 - #### Deployment technologies
@@ -115,14 +113,18 @@ if __name__ == "__main__":
     <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=d1d1d1" title="Kubernetes">
 </div>
 
-- #### Git
-<div id="git">
-    <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032" title="Git"/>
-    <img src="https://img.shields.io/badge/Github-d1d1d1?style=for-the-badge&logo=github&logoColor=black" title="Github"/>
-    <img src="https://img.shields.io/badge/Gitlab-d1d1d1?style=for-the-badge&logo=gitlab&logoColor=FC6D26" title="Gitlab"/>
+- #### Front-end technologies (basic)
+<div id="frontend-technologies">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML"/> 
+    <img src="https://img.shields.io/badge/CSS-2d6bdc?style=for-the-badge&logo=CSS3&logoColor=white" title="CSS"/>
+    <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" title="JS"/><br>
+    <img src="https://img.shields.io/badge/jquery-2f8ccc?style=for-the-badge&logo=jquery&logoColor=white" title="Jquery"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" title="Bootstrap"/>
 </div>
 
-- #### OS and terminal
+---
+
+### OS and terminal
 <div id="os-and-terminal">
     <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" title="Windows">
     <img src="https://img.shields.io/badge/linux-d1d1d1?style=for-the-badge&logo=linux&logoColor=black" title="Linux">
@@ -130,8 +132,6 @@ if __name__ == "__main__":
     <img src="https://img.shields.io/badge/windows terminal-black?style=for-the-badge&logo=windowsterminal&logoColor=white" title="Windows terminal">
     <img src="https://img.shields.io/badge/gnome terminal-241F31?style=for-the-badge&logo=gnometerminal&logoColor=white" title="Windows terminal">
 </div>
-
----
 
 ### ✍️ IDE:
 <div id="ide">
