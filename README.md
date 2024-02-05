@@ -92,6 +92,12 @@ if __name__ == "__main__":
     <img src="https://img.shields.io/badge/beats-005571?style=for-the-badge&logo=beats&logoColor=white" title="Beats"><br>
 </div>
 
+- #### Metric
+<div id="metric">
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" title="Prometheus">
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" title="Grafana">
+</div>
+
 - #### Front-end technologies (basic)
 <div id="frontend-technologies">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML"/> 
