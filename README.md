@@ -144,10 +144,10 @@ if __name__ == "__main__":
 ### 📩 My contacts:
 <div id="contacts">
   <a href="https://t.me/ya_kilka_ksta">
-    <img src="https://img.shields.io/badge/Telegram-d1d1d1?style=for-the-badge&logo=telegram&logoColor=26A5E4" title="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=26A5E4" title="Telegram"/>
   </a>
   <a href="mailto:liwanonika@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-d1d1d1?style=for-the-badge&logo=gmail&logoColor=EA4335" title="Gmail"/>
+    <img src="https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=EA4335" title="Gmail"/>
   </a>
   <a href="https://discord.com/users/712922114600075295">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" title="Discord"/>
