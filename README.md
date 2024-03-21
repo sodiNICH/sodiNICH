@@ -84,7 +84,7 @@ if __name__ == "__main__":
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" title="RabbitMQ">
 </div>
 
-- #### ELK stack
+<!-- - #### ELK stack
 <div id="elk">
     <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" title="Elasticsearch">
     <img src="https://img.shields.io/badge/logstash-005571?style=for-the-badge&logo=logstash&logoColor=white" title="Logstash">
@@ -96,7 +96,7 @@ if __name__ == "__main__":
 <div id="metric">
     <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" title="Prometheus">
     <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" title="Grafana">
-</div>
+</div> -->
 
 - #### Git
 <div id="git">
