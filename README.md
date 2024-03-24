@@ -54,7 +54,15 @@ if __name__ == "__main__":
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/> 
     <img src="https://img.shields.io/badge/Django-008000?style=for-the-badge&logo=django&logoColor=white" title="Django"/>
     <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" title="FastAPI"/><br>
+    <img src="https://img.shields.io/badge/DRF-7f2d2d?style=for-the-badge" title="Django REST Framework"/>
     <img src="https://img.shields.io/badge/pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" title="Pydantic"/>
+</div>
+
+- #### Interaction with API
+<div id="interaction-with-api">
+    <img src="https://img.shields.io/badge/REST-3f498f?style=for-the-badge" title="REST"/>
+    <img src="https://img.shields.io/badge/grpc-009688?style=for-the-badge" title="gRPC"/>
+    <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white" title="GraphQL"/><br>
 </div>
 
 - #### Data bases / ORM
@@ -62,7 +70,8 @@ if __name__ == "__main__":
     <img src="https://img.shields.io/badge/postgresql-3f6bf0?style=for-the-badge&logo=postgresql&logoColor=white" title="PostreSQL"/>
     <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=d1d1d1" title="MongoDB">
     <img src="https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis&logoColor=f93325" title="Redis"/><br>
-    <img src="https://img.shields.io/badge/sqlalchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" title="PostreSQL"/>
+    <img src="https://img.shields.io/badge/sqlalchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" title="SQLAlchemy"/>
+    <img src="https://img.shields.io/badge/Django ORM-008000?style=for-the-badge" title="Django ORM"/>
 </div>
 
 <!-- - #### File storage
