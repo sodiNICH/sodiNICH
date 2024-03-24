@@ -62,6 +62,7 @@ if __name__ == "__main__":
 <div id="interaction-with-api">
     <img src="https://img.shields.io/badge/REST-3f498f?style=for-the-badge" title="REST"/>
     <img src="https://img.shields.io/badge/grpc-009688?style=for-the-badge" title="gRPC"/>
+    <img src="https://img.shields.io/badge/websocket-f05138?style=for-the-badge" title="WebSocket"/>
     <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white" title="GraphQL"/><br>
 </div>
 
