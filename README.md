@@ -53,14 +53,16 @@ if __name__ == "__main__":
 <div id="language-and-web-frameworks">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/> 
     <img src="https://img.shields.io/badge/Django-008000?style=for-the-badge&logo=django&logoColor=white" title="Django"/>
-    <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" title="FastAPI"/>
+    <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" title="FastAPI"/><br>
+    <img src="https://img.shields.io/badge/pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" title="Pydantic"/>
 </div>
 
-- #### Data bases
+- #### Data bases / ORM
 <div id="data-bases">
     <img src="https://img.shields.io/badge/postgresql-3f6bf0?style=for-the-badge&logo=postgresql&logoColor=white" title="PostreSQL"/>
     <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=d1d1d1" title="MongoDB">
     <img src="https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis&logoColor=f93325" title="Redis"/><br>
+    <img src="https://img.shields.io/badge/sqlalchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" title="PostreSQL"/>
 </div>
 
 <!-- - #### File storage
@@ -75,13 +77,14 @@ if __name__ == "__main__":
 - #### Files storage
 <div id="files-storage">
     <img src="https://img.shields.io/badge/minio-C72E49?style=for-the-badge&logo=minio&logoColor=d1d1d1" title="MinIO">
-    <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" title="Amazon S3">
+    <!-- <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" title="Amazon S3"> -->
 </div>
 
 - #### Message queue
 <div id="message-queue">
     <img src="https://img.shields.io/badge/celery-37814A?style=for-the-badge&logo=celery&logoColor=d1d1d1" title="Celery">
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" title="RabbitMQ">
+    <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" title="ApacheKafka">
 </div>
 
 <!-- - #### ELK stack
