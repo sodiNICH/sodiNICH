@@ -45,6 +45,7 @@ if __name__ == "__main__":
 - 👍 Happy to have any real practice
 - 🧐 Responsible, limited and very pedantic
 - 😎 I am self-taught
+- 📓 I follow the basic principles of programming: DRY, KISS, YAGNI, SOLID
 
 ---
 
@@ -66,10 +67,11 @@ if __name__ == "__main__":
     <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white" title="GraphQL"/><br>
 </div>
 
-- #### Data bases / ORM
+- #### Data bases: SQL / NoSQL / ORM
 <div id="data-bases">
-    <img src="https://img.shields.io/badge/postgresql-3f6bf0?style=for-the-badge&logo=postgresql&logoColor=white" title="PostreSQL"/>
-    <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=d1d1d1" title="MongoDB">
+    <img src="https://img.shields.io/badge/postgresql-3f6bf0?style=for-the-badge&logo=postgresql&logoColor=white" title="PostreSQL"/><br>
+    <!-- <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=d1d1d1" title="MongoDB"> -->
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" title="Elasticsearch">
     <img src="https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis&logoColor=f93325" title="Redis"/><br>
     <img src="https://img.shields.io/badge/sqlalchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" title="SQLAlchemy"/>
     <img src="https://img.shields.io/badge/Django ORM-008000?style=for-the-badge" title="Django ORM"/>
@@ -156,10 +158,10 @@ if __name__ == "__main__":
 
 ### 📩 My contacts:
 <div id="contacts">
-  <a href="https://t.me/ya_kilka_ksta">
+  <a href="https://t.me/non_existent_subject">
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=26A5E4" title="Telegram"/>
   </a>
-  <a href="mailto:liwanonika@gmail.com">
+  <a href="mailto:itproger20@gmail.com">
     <img src="https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=EA4335" title="Gmail"/>
   </a>
   <a href="https://discord.com/users/712922114600075295">
