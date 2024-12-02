@@ -50,23 +50,17 @@ if __name__ == "__main__":
 ---
 
 ### 💻 Technology Stack:
-- #### Language and web frameworks
 <div id="language-and-web-frameworks">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/> 
     <img src="https://img.shields.io/badge/Django-008000?style=for-the-badge&logo=django&logoColor=white" title="Django"/>
     <img src="https://img.shields.io/badge/DRF-7f2d2d?style=for-the-badge" title="Django REST Framework"/>
-    <img src="https://img.shields.io/badge/pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" title="Pydantic"/>
 </div>
-
-- #### Data bases: SQL / NoSQL / ORM
 <div id="data-bases">
-    <img src="https://img.shields.io/badge/postgresql-3f6bf0?style=for-the-badge&logo=postgresql&logoColor=white" title="PostreSQL"/><br>
-    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" title="Elasticsearch">
-    <img src="https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis&logoColor=f93325" title="Redis"/><br>
+    <img src="https://img.shields.io/badge/postgresql-3f6bf0?style=for-the-badge&logo=postgresql&logoColor=white" title="PostreSQL"/>
+    <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" title="ELK">
+    <img src="https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis&logoColor=f93325" title="Redis"/>
     <img src="https://img.shields.io/badge/Django ORM-008000?style=for-the-badge" title="Django ORM"/>
 </div>
-
-- #### Message queue
 <div id="message-queue">
     <img src="https://img.shields.io/badge/celery-37814A?style=for-the-badge&logo=celery&logoColor=d1d1d1" title="Celery">
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" title="RabbitMQ">
@@ -76,7 +70,7 @@ if __name__ == "__main__":
 
 ### 📩 My contacts:
 <div id="contacts">
-  <a href="https://t.me/pythonist_kev">
+  <a href="https://t.me/pythonist_lev">
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=26A5E4" title="Telegram"/>
   </a>
   <a href="mailto:ionatan_it@proton.me">
