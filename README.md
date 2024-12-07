@@ -8,7 +8,6 @@ class Person:
     __instance = None
 
     name: str
-    age: int
     role: str
     language: str
 
@@ -21,21 +20,19 @@ class Person:
         brief_description = dedent(
             f"""
             Hi, my name is {self.name} — I'm a {self.role} in {self.language}.
-            I'm {self.age} years old and have been programming for over 1 year.
             Thank you for stopping by!
             """
         )
         return brief_description
 
 def main() -> None:
-    me = Person(name="Lev", age=17, role="Web developer", language="Python")
+    me = Person(name="Lev",role="Web developer", language="Python")
     print(me)
 
 
 if __name__ == "__main__":
     main()
     # Hi, my name is Lev — I'm a Web developer in Python.
-    # I'm 17 years old and have been programming for over 1 year.
     # Thank you for stopping by!
 ```
 ---
@@ -77,5 +74,3 @@ if __name__ == "__main__":
     <img src="https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=EA4335" title="Proton"/>
   </a>
 </div>
-
-<!-- [![sodinich github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sodinich&theme=high-contrast)](https://github.com/sodinich/github-readme-activity-graph) -->
